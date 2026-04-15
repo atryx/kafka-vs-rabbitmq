@@ -1,4 +1,4 @@
-<!-- GitAds-Verify: REPLACE_WITH_YOUR_GITADS_VERIFICATION_CODE -->
+<!-- GitAds-Verify: MIKFOLZWJCWRUNCX9D9O8CWR1D748GWF -->
 
 # Kafka vs RabbitMQ (2026)
 
